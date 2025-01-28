@@ -10,6 +10,10 @@ apt-get install compizconfig-settings-manager
  export DISPLAY=localhost:0
 Ccsm
 
+#incase installtion fails
+
+sudo apt-get update
+
 #online terminal
 
 https://cocalc.com/doc/terminal.html
