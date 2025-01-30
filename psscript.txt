@@ -2,3 +2,6 @@
  New-Item -Path "c:\kpmg\psscripts" -ItemType Directory
 #create file
  New-Item -Path "c:\kpmg\psscripts]index.ps1" -ItemType File
+
+#run the file
+powershell -ExecutionPolicy Bypass -File .\index.ps1
