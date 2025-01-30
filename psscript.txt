@@ -1,4 +1,4 @@
 #create directory
  New-Item -Path "c:\kpmg\psscripts" -ItemType Directory
 #create file
- New-Item -Path "c:\kpmg\psscripts]index.ps" -ItemType File
+ New-Item -Path "c:\kpmg\psscripts]index.ps1" -ItemType File
