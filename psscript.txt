@@ -1,0 +1,2 @@
+#create directory
+ New-Item -Path "c:\kpmg\psscripts" -ItemType Directory
